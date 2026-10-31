@@ -23,6 +23,7 @@ env/
 *.env
 *.pem
 *.key
+*credentials*.txt
 
 # --- Local S3 Vault Testing Directory ---
 backend/local_vault/*
